@@ -2159,6 +2159,7 @@ public enum ItemList implements IItemContainer {
     TierdDrone0,
     TierdDrone1,
     TierdDrone2,
+    RockWeatheringField,
     Hatch_DroneDownLink,
     ElectronicsLump,
     WormholeGenerator,
