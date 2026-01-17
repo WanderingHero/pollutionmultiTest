@@ -678,6 +678,12 @@ public class GTValues {
             EnumChatFormatting.RED + BOLD,
             EnumChatFormatting.YELLOW + BOLD));
 
+    public static final String AuthorHero = "Author: " + EnumChatFormatting.DARK_BLUE
+        + "Wanderin' "
+            + EnumChatFormatting.AQUA
+        + "Hero";
+
+
     private static Supplier<String> createChromLetter(String letter, String... injectedUnicode) {
 
         XSTR random = XSTR.XSTR_INSTANCE;

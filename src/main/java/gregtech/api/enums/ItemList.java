@@ -2678,9 +2678,12 @@ public enum ItemList implements IItemContainer {
     NameRemover,
     Hatch_Nanite,
     Hatch_Catalyst_Bulk,
+
     Machine_Multi_AirFilterT1,
     Machine_Multi_AirFilterT2,
     Machine_Multi_AirFilterT3,
+    Machine_Multi_EnhancedWetheringPatch,
+
     Heavy_Hellish_Mud,
     Netherite_Scrap_Seed,
     Brittle_Netherite_Scrap,
